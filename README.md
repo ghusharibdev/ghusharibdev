@@ -1,57 +1,36 @@
 <div align="center">
 
-# Ghusharib Najam
-**Mobile Engineer & Backend Systems Developer**
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=700&height=70&lines=👋+Hey+there!+I'm+Ghusharib+Najam;📱+Mobile+Engineeer+(Flutter);⚙️+Backend+Architect+(Spring+Boot+%26+Node);🤖+AI+%26+RAG+Systems+Developer" alt="Typing SVG" />
 
-*CS Student @ COMSATS University Islamabad, Lahore Campus*
+<p align="center">
+  <b>Computer Science Student @ COMSATS University Islamabad, Lahore Campus</b>
+</p>
 
-[LinkedIn](#) • [Email](#) • [Portfolio](#)
+<!-- Social & Contact Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/ghusharib"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:contact@ghusharib.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ghusharibdev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
----
-
-> Building practical, production-ready software across cross-platform mobile apps, high-throughput microservices, and applied AI systems.
-
-</div>
-
----
-
-### 🛠️ Tech Stack & Capabilities
-
-| 📱 Mobile Development | ⚙️ Backend Architecture | 🤖 AI Systems & Integration |
-| :--- | :--- | :--- |
-| **Flutter** · **Dart** | **Java** · **Spring Boot** | **LLM APIs** · **RAG Pipelines** |
-| **Android** · **iOS** | **Node.js** · **Express.js** | **AI Autonomous Agents** |
-| **Riverpod** · **Provider** | **Microservices** · **REST / gRPC** | **Vector Search** (`Qdrant`) |
-| **Firebase** · **Dio** · **Drift** | **Spring Security** · **Protobuf** | **LangChain.js** |
-
----
-
-### 💼 Experience
-
-#### **Mobile Application Developer Intern** — *FusionWave*
-> Engineered core Flutter production features, integrated complex REST APIs, authored unit/integration tests, and managed Android (Play Store) & iOS (App Store) deployment pipelines.
-
----
-
-### ⚡ What I'm Doing Now
-
-* 🚘 **Final Year Project:** Building **IntelliClaim** — an AI-driven vehicle insurance claim engine.
-* 🤖 **AI Exploration:** Deep-diving into AI Agents, RAG architecture, and Computer Vision integration.
-* ⚙️️ **Systems Design:** Refining distributed backend architecture, caching, and database schemas.
-* 📱 **Product Delivery:** Actively building and shipping performant, clean-architecture Flutter applications.
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghusharibdev&theme=tokyo-night&hide_border=true" width="100%" alt="Ghusharib's GitHub Activity Graph" />
-</div>
-
-<br />
-
-<div align="center">
-
-<sub><i>"Building useful software, one project at a time."</i></sub>
+<!-- Animated Profile Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghusharibdev&label=PROFILE+VIEWS&color=6366f1&style=flat-square" alt="Visitors" />
+</p>
 
 </div>
+
+---
+
+### ⚡ About Me
+
+```yaml
+developer: Ghusharib Najam
+location: Lahore, Pakistan
+education: BS Computer Science @ COMSATS University Lahore
+core_focus:
+  - Scalable Cross-Platform Mobile Apps
+  - Distributed Backend Microservices
+  - Applied AI, RAG & Autonomous Agents
+motto: "Building useful software, one project at a time."
