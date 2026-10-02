@@ -1,121 +1,68 @@
 <div align="center">
 
-# Ghusharib Najam
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Ghusharib%20Najam&fontSize=42&fontAlignY=35&desc=Flutter%20%7C%20Backend%20%7C%20AI&descAlignY=58&animation=fadeIn" width="100%"/>
 
-### Flutter & Full-Stack Developer
+<a href="https://ghusharibnajam.vercel.app">🌐 Portfolio</a>
+  •   <a href="https://github.com/ghusharibdev">💻 GitHub</a>
 
-Building mobile apps, backend systems, and AI-powered software.
+<br><br>
 
-<br>
-
-<a href="https://ghusharibnajam.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/ghusharibdev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ghusharib-najam/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+**I build mobile apps, backend systems, and AI-powered software.**
 
 </div>
 
-<br>
+---
+
+## About
+
+I'm a Computer Science student at **COMSATS University Islamabad, Lahore Campus**, focused on building practical software from frontend to backend.
+
+My main work is around **Flutter, Java/Spring Boot, Node.js, databases, and AI integrations**.
+
+I like taking an idea, building the system behind it, and turning it into a working product.
 
 ---
 
-## 👋 About Me
-
-I'm a Computer Science student and developer focused on building **mobile and full-stack applications**.
-
-I mainly work with **Flutter, Java/Spring Boot, Node.js, databases, and AI APIs**.
-
-I enjoy turning ideas into working products, building APIs, connecting different systems, and shipping software that people can actually use.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Mobile
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
-
-### Database & Tools
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,linux" />
-
-</div>
-
-<br>
-
-**Also working with:**
-`Riverpod` · `Provider` · `Dio` · `REST APIs` · `Microservices` · `gRPC` · `Protobuf` · `Spring Security` · `Firebase` · `Drift` · `Qdrant` · `LangChain.js` · `RAG` · `LLM APIs`
-
----
-
-## 🚀 What I Work On
+## What I Do
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 📱 Mobile Development
+### 📱 Mobile
 
-* Flutter & Dart
-* Android & iOS
-* Clean Architecture
-* State Management
-* Firebase
-* API Integration
-
-</td>
-<td width="50%">
-
-### ⚙️ Backend Development
-
-* Java & Spring Boot
-* Node.js & Express
-* REST APIs
-* Microservices
-* Authentication & Security
-* PostgreSQL & MongoDB
+Flutter
+Dart
+Android & iOS
+Firebase
+State Management
+API Integration
 
 </td>
-</tr>
 
-<tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🤖 AI Development
+### ⚙️ Backend
 
-* LLM APIs
-* RAG
-* AI-powered applications
-* Vector databases
-* AI agents
-* Intelligent workflows
+Java
+Spring Boot
+Node.js
+REST APIs
+Microservices
+PostgreSQL / MongoDB
 
 </td>
-<td width="50%">
 
-### 🔧 Engineering
+<td width="33%" align="center">
 
-* Git & GitHub
-* Docker
-* Linux
-* API design
-* Database design
-* Deployment
+### 🤖 AI
+
+LLM APIs
+RAG
+AI Agents
+Vector Search
+LangChain.js
+AI Workflows
 
 </td>
 </tr>
@@ -123,66 +70,68 @@ I enjoy turning ideas into working products, building APIs, connecting different
 
 ---
 
-## 📊 GitHub Stats
+## Tech
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ghusharibdev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,nodejs,express,react,tailwind,postgres,mongodb,firebase,docker,git,linux" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghusharibdev&layout=compact&hide_border=true" />
+<br><br>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ghusharibdev&hide_border=true" />
+`Riverpod` `Provider` `Dio` `REST` `gRPC` `Protobuf` `Spring Security` `Drift` `Qdrant` `LangChain.js`
 
 </div>
 
 ---
 
-## 🎓 Education
+## Experience
 
-**BS Computer Science**
-COMSATS University Islamabad — Lahore Campus
+**Mobile Application Developer Intern — FusionWave**
 
----
-
-## 💼 Experience
-
-**Mobile Application Developer Intern**
-FusionWave (Pvt.) Limited
-
-Worked on Flutter applications, backend integrations, production features, and app deployment.
+Worked on Flutter applications, API integration, production features, testing, and app deployment for Android and iOS.
 
 ---
 
-## 🌱 Currently
+## Currently
 
-* Building **AI-powered applications**
-* Working with **Flutter + Spring Boot**
-* Exploring **AI agents and RAG systems**
-* Improving backend and system design
-* Working on my **Final Year Project**
+🚘 Building my **Final Year Project — IntelliClaim**
+
+🤖 Exploring **AI agents, RAG, and computer vision**
+
+⚙️ Improving **Spring Boot, backend architecture, and system design**
+
+📱 Continuing to build and ship **Flutter applications**
 
 ---
 
-## 📫 Connect
+## GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ghusharibdev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghusharibdev&layout=compact&hide_border=true&theme=transparent" height="175"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=ghusharibdev&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## Connect
 
 <div align="center">
 
 <a href="https://ghusharibnajam.vercel.app">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-ghusharibnajam.vercel.app-black?style=flat-square" />
+<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
+ 
 
 <a href="https://github.com/ghusharibdev">
-  <img src="https://img.shields.io/badge/💻%20GitHub-ghusharibdev-black?style=flat-square" />
-</a>
-
-<a href="https://www.linkedin.com/in/ghusharib-najam/">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-Ghusharib%20Najam-black?style=flat-square" />
+<img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -191,6 +140,6 @@ Worked on Flutter applications, backend integrations, production features, and a
 
 <div align="center">
 
-### Thanks for visiting 👋
+<sub>Building useful software, one project at a time.</sub>
 
 </div>
