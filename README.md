@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:6366f1&text=Ghusharib%20Najam&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Flutter%20%C2%B7%20Backend%20%C2%B7%20On-device%20AI&descAlignY=58&descSize=18" width="100%" alt="header" />
+# Ghusharib Najam
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=640&lines=I+ship+Flutter+apps+that+actually+work;Spring+Boot+%7C+Node.js+%7C+RAG+pipelines;Offline-first.+On-device+AI.+No+fluff." alt="Typing SVG" />
-</a>
+**Flutter · Backend · On-device AI**
+
+*Offline-first. On-device AI. No fluff.*
 
 <br/>
 
-<a href="https://ghusharibnajam.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Lahore,_PK-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open_to-Internships-22c55e?style=for-the-badge"/>
+<a href="https://ghusharibnajam.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/ghusharibdev"><img src="https://img.shields.io/github/followers/ghusharibdev?style=for-the-badge&logo=github&logoColor=white&color=0f172a&label=Followers" alt="Followers"/></a>
+<img src="https://img.shields.io/badge/Lahore,_PK-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lahore"/>
 
 </div>
 
@@ -22,36 +22,33 @@ CS student at **COMSATS University Islamabad** (class of 2027) and **Mobile Appl
 
 ```dart
 const ghusharib = Developer(
-  focus:   ['Flutter', 'Spring Boot', 'Node.js', 'RAG'],
-  loves:   ['offline-first', 'on-device ML', 'clean architecture'],
+  focus:    ['Flutter', 'Spring Boot', 'Node.js', 'RAG'],
+  loves:    ['offline-first', 'on-device ML', 'clean architecture'],
   shipping: 'Play Store',
-  fyp:     'IntelliClaim',
+  fyp:      'IntelliClaim',
 );
 ```
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | What it does | Stack |
-| :-- | :-- | :-- |
-| **[Sanad](https://github.com/ghusharibdev/sanad)** | Offline Hadith library with a grounded on-device AI assistant (RAG on Qwen3-0.6B) | Flutter · RAG · On-device LLM |
-| **[Climivo](https://github.com/ghusharibdev/climivo)** | Weather + activity suggestions, fully offline-capable, zero paid services | Flutter · Visual Crossing API |
-| **[TressAI](https://github.com/ghusharibdev/hair_changer)** | AI hair try-on with on-device ESRGAN upscaling | Flutter · HairFastGAN · ESRGAN |
-| **[Tether](https://github.com/ghusharibdev/tether)** | Device-to-device file sharing on the local network, no cloud | Flutter · LAN networking |
-| **IntelliClaim** | Final Year Project | *in progress* |
-
-</div>
-
-> Repo links are guesses, so fix any that don't match your actual repo names.
 
 ## 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,nodejs,express,react,mongodb,postgres,firebase,docker,git,linux,tailwind&theme=dark" />
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<br/><br/>
+<br/>
 
 ![Riverpod](https://img.shields.io/badge/Riverpod-0f172a?style=flat-square)
 ![Dio](https://img.shields.io/badge/Dio-0f172a?style=flat-square)
@@ -60,17 +57,6 @@ const ghusharib = Developer(
 ![Qdrant](https://img.shields.io/badge/Qdrant-0f172a?style=flat-square)
 ![LangChain.js](https://img.shields.io/badge/LangChain.js-0f172a?style=flat-square)
 ![ML Kit](https://img.shields.io/badge/ML_Kit-0f172a?style=flat-square)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ghusharibdev&show_icons=true&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=6366f1&text_color=cbd5e1&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghusharibdev&layout=compact&hide_border=true&bg_color=0f172a&title_color=818cf8&text_color=cbd5e1" />
-
-<img src="https://streak-stats.demolab.com?user=ghusharibdev&hide_border=true&background=0f172a&ring=6366f1&fire=818cf8&currStreakLabel=cbd5e1&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" />
 
 </div>
 
@@ -84,8 +70,6 @@ const ghusharib = Developer(
 
 <br/>
 
-<a href="https://ghusharibnajam.vercel.app"><img src="https://img.shields.io/badge/Let's_build_something-6366f1?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6366f1,100:0f172a&section=footer" width="100%" />
+<a href="https://ghusharibnajam.vercel.app"><img src="https://img.shields.io/badge/Let's_build_something-6366f1?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Contact"/></a>
 
 </div>
