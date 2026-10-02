@@ -1,54 +1,210 @@
-# Hi there, I'm Ghusharib Najam 👋
+<div align="center">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ghusharibdev&show_icons=true&theme=tokyonight&hide_border=true" width="380"/>
+# Hi, I'm Ghusharib Najam 👋
 
-### 🚀 Software Engineer & Mobile Developer
-Building cross-platform mobile applications, scalable microservice backends, and applied AI pipelines.
+### Flutter & Full-Stack Developer • AI-Powered Applications • Backend Engineering
 
-- 🔭 **Current Focus:** Flutter Clean Architecture, Spring Boot Microservices & AI Integration.
-- 📱 **Mobile:** Flutter, Dart, Riverpod, Provider, SQLite, Firebase.
-- ⚙️ **Backend & DevOps:** Java, Spring Boot, Node.js, Express, Docker, Redis, MongoDB, PostgreSQL, GitHub Actions.
-- 🧠 **AI & Machine Learning:** Python, YOLO, TensorFlow Lite, RAG Pipelines.
-- 📬 **LinkedIn:** [linkedin.com/in/ghusharib](https://linkedin.com/in/ghusharib)
+I build and ship **real-world mobile and full-stack applications** with Flutter, Spring Boot, Node.js, and AI-powered services.
 
----
+**7–8 apps shipped and counting.**
 
-### 🛠️ Tech Stack & Tooling
+[![Portfolio](https://img.shields.io/badge/Portfolio-ghusharibnajam.vercel.app-000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://ghusharibnajam.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-ghusharibdev-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ghusharibdev)
 
-#### Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-#### Backend & Microservices
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### Databases & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+</div>
 
 ---
 
-### 📌 Selected Projects
+## 🚀 About Me
 
-| Project | Tech Stack | Highlights |
-| :--- | :--- | :--- |
-| **SkinSense** | Flutter, GitHub Actions, AI | Skincare routine engine featuring custom onboarding and automated CI/CD. |
-| **CareerLens** | Flutter, Node.js, RAG Pipeline | AI-driven job application tracking platform. |
-| **Vehicle Insurance Claim Engine** | Flutter, Spring Boot, YOLO | Damage detection and claim validation system using computer vision. |
-| **Tether** | Flutter, Local-First Network | Local device-to-device secure file transfer application. |
+* 📱 Focused on **Flutter development** for Android & iOS
+* ⚙️ Building scalable **Spring Boot & Node.js backends**
+* 🤖 Integrating **AI, RAG, LLM APIs, and intelligent workflows**
+* 🧩 Comfortable working across **mobile, frontend, backend, databases, and DevOps**
+* 🛠️ Experienced in taking applications from **idea → development → deployment**
+* 🎓 Computer Science student at **COMSATS University Islamabad, Lahore Campus**
+* 💼 Former **Mobile Application Developer Intern at FusionWave**
+* 🌍 Building software with a focus on **practical products and production-ready engineering**
 
 ---
 
-### 📊 GitHub Overview
+## 🧠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghusharibdev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 📱 Mobile
+
+![Flutter](https://skillicons.dev/icons?i=flutter,dart)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+
+**Flutter • Dart • Riverpod • Provider • Dio • Firebase • Firestore • Local Storage • Clean Architecture**
+
+### ⚙️ Backend
+
+![Java](https://skillicons.dev/icons?i=java,spring,nodejs,express)
+
+**Java • Spring Boot • Spring Security • REST APIs • Microservices • gRPC • Protobuf • Node.js • Express.js**
+
+### 🗄️ Databases
+
+![Postgres](https://skillicons.dev/icons?i=postgres,mongodb,mysql)
+
+**PostgreSQL • MongoDB • MySQL • Firestore • GeoJSON / 2DSphere**
+
+### 🤖 AI & Intelligent Systems
+
+**LLM APIs • RAG • LangChain.js • Qdrant • AI Agents • Prompt Engineering • AI-powered Applications**
+
+### 🌐 Frontend & Tools
+
+![React](https://skillicons.dev/icons?i=react,tailwind,html,css,git,docker,linux)
+
+**React • Tailwind CSS • Git • GitHub • Docker • Linux • Firebase • Vercel**
+
+---
+
+## 📱 Apps I've Built
+
+### 🧾 SubsEntry
+
+A subscription management app for tracking recurring subscriptions, payments, and renewal dates.
+
+**Flutter • Firebase • Notifications • fl_chart**
+
+### ✈️ PivotAI
+
+An AI-powered travel planning application that helps users discover destinations and build personalized trips.
+
+**Flutter • Drift • AI APIs • OpenStreetMap**
+
+### 💊 RxShield
+
+A medication reminder and medicine information app using publicly available pharmaceutical data.
+
+**Flutter • Firebase • openFDA • PubChem**
+
+### 🌦️ Climivo
+
+A modern weather application providing forecasts and weather information across platforms.
+
+**Flutter • Weather APIs**
+
+### 🩺 SkinSense
+
+A skincare-focused mobile application designed around practical skin information and guidance.
+
+**Flutter • Firebase**
+
+### 📖 Sanad
+
+An offline-first Hadith companion designed to make classical Hadith collections accessible without requiring an internet connection.
+
+**Flutter • Offline Data • Arabic UI**
+
+---
+
+## 🧩 Selected Engineering Projects
+
+### 💼 CareerLens
+
+AI-powered job application tracking and resume-to-job matching.
+
+**Flutter • AI Integration**
+
+### 💰 SpendWise API
+
+Secure personal finance backend for managing income, expenses, categories, and transactions.
+
+**Spring Boot • Spring Security • JWT • PostgreSQL**
+
+### 🏥 MediQueue API
+
+Healthcare queue and appointment management backend.
+
+**Spring Boot • PostgreSQL • JWT Authentication**
+
+### 💼 Job Board Platform
+
+Backend for a job listing and search platform.
+
+**Node.js • Express.js • MongoDB • Authentication**
+
+### 🌍 Travel Destination Planner
+
+React-based travel explorer with weather, forecasts, local time, and destination information.
+
+**React • APIs • JavaScript**
+
+---
+
+## 🏗️ What I Like Building
+
+```text
+Mobile Applications
+        ↓
+Flutter / Dart
+        ↓
+REST APIs / Microservices
+        ↓
+Spring Boot / Node.js
+        ↓
+PostgreSQL / MongoDB / Firebase
+        ↓
+AI / RAG / Intelligent Features
+        ↓
+Deployment & Production
+```
+
+I enjoy working across the entire product lifecycle rather than staying limited to a single layer of the stack.
+
+---
+
+## 🔭 Currently Building
+
+### 🚘 IntelliClaim
+
+An AI-powered vehicle insurance claims platform combining:
+
+**Computer Vision • AI • RAG • Geospatial Services • Automated Workflows • Analytics**
+
+My current focus is building the core application flow, authentication, claim processing, and intelligent claim assistance.
+
+---
+
+## 📈 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ghusharibdev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghusharibdev&layout=compact&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🎯 Engineering Interests
+
+**Flutter Development**
+**Backend Engineering**
+**Distributed Systems & APIs**
+**AI-powered Applications**
+**RAG & AI Agents**
+**Cloud & DevOps**
+**Product Development**
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in building useful software, collaborating on interesting products, and growing as a software engineer.
+
+🌐 **Portfolio:** [ghusharibnajam.vercel.app](https://ghusharibnajam.vercel.app)
+
+💻 **GitHub:** [github.com/ghusharibdev](https://github.com/ghusharibdev)
+
+---
+
+<div align="center">
+
+### Build. Ship. Improve. 🚀
+
+</div>
