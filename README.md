@@ -1,13 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Ghusharib%20Najam&fontSize=42&fontAlignY=35&desc=Flutter%20%7C%20Backend%20%7C%20AI&descAlignY=58&animation=fadeIn" width="100%"/>
+# Ghusharib Najam
 
-<a href="https://ghusharibnajam.vercel.app">🌐 Portfolio</a>
-  •   <a href="https://github.com/ghusharibdev">💻 GitHub</a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=600&lines=Flutter+%7C+Backend+%7C+AI;Building+mobile+and+full-stack+software;Turning+ideas+into+working+products" alt="Typing SVG" />
+</a>
+
+<br>
+
+<a href="https://ghusharibnajam.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/ghusharibdev">
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 <br><br>
-
-**I build mobile apps, backend systems, and AI-powered software.**
 
 </div>
 
@@ -15,62 +24,28 @@
 
 ## About
 
-I'm a Computer Science student at **COMSATS University Islamabad, Lahore Campus**, focused on building practical software from frontend to backend.
+Computer Science student at **COMSATS University Islamabad, Lahore Campus** building practical software across mobile, backend, and AI.
 
-My main work is around **Flutter, Java/Spring Boot, Node.js, databases, and AI integrations**.
-
-I like taking an idea, building the system behind it, and turning it into a working product.
+Currently focused on **Flutter, Java/Spring Boot, Node.js, databases, and AI integrations**.
 
 ---
 
-## What I Do
+## What I Work With
 
-<table>
-<tr>
-<td width="33%" align="center">
+<div align="center">
 
-### 📱 Mobile
+|      📱 Mobile      |     ⚙️ Backend     |     🤖 AI     |
+| :-----------------: | :----------------: | :-----------: |
+|    Flutter · Dart   | Java · Spring Boot |    LLM APIs   |
+|    Android · iOS    |  Node.js · Express |      RAG      |
+|       Firebase      |     REST · gRPC    |   AI Agents   |
+| Riverpod · Provider |    Microservices   | Vector Search |
 
-Flutter
-Dart
-Android & iOS
-Firebase
-State Management
-API Integration
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚙️ Backend
-
-Java
-Spring Boot
-Node.js
-REST APIs
-Microservices
-PostgreSQL / MongoDB
-
-</td>
-
-<td width="33%" align="center">
-
-### 🤖 AI
-
-LLM APIs
-RAG
-AI Agents
-Vector Search
-LangChain.js
-AI Workflows
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## Tech
+## Stack
 
 <div align="center">
 
@@ -78,7 +53,7 @@ AI Workflows
 
 <br><br>
 
-`Riverpod` `Provider` `Dio` `REST` `gRPC` `Protobuf` `Spring Security` `Drift` `Qdrant` `LangChain.js`
+`Dio` · `Spring Security` · `Protobuf` · `Drift` · `Qdrant` · `LangChain.js`
 
 </div>
 
@@ -88,23 +63,20 @@ AI Workflows
 
 **Mobile Application Developer Intern — FusionWave**
 
-Worked on Flutter applications, API integration, production features, testing, and app deployment for Android and iOS.
+Worked on Flutter applications, API integration, production features, testing, and Android/iOS deployment.
 
 ---
 
 ## Currently
 
-🚘 Building my **Final Year Project — IntelliClaim**
-
-🤖 Exploring **AI agents, RAG, and computer vision**
-
-⚙️ Improving **Spring Boot, backend architecture, and system design**
-
-📱 Continuing to build and ship **Flutter applications**
+> 🚘 Building **IntelliClaim** as my Final Year Project
+> 🤖 Exploring **AI agents, RAG, and computer vision**
+> ⚙️ Improving **backend architecture and system design**
+> 📱 Continuing to build and ship Flutter applications
 
 ---
 
-## GitHub
+## GitHub Activity
 
 <div align="center">
 
@@ -120,25 +92,19 @@ Worked on Flutter applications, API integration, production features, testing, a
 
 ---
 
-## Connect
-
 <div align="center">
 
 <a href="https://ghusharibnajam.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111111?style=for-the-badge"/>
 </a>
 
  
 
 <a href="https://github.com/ghusharibdev">
-<img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20GitHub-Profile-111111?style=for-the-badge"/>
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <sub>Building useful software, one project at a time.</sub>
 
